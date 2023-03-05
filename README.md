@@ -1,4 +1,4 @@
-# Power CSS Pack
+# Roam Theme - Leyendarker
 
 This Extension gives you a beautiful theme as below
 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FExploreSpace%2FkdeK8aZzAa.png?alt=media&token=d8483127-485f-45b4-b779-72b4193b248f)
