@@ -3,6 +3,7 @@ import './leyendarker.css'
 
 
 function onload() {
+  document.body.className = 'leyendarker'
 }
 
 function onunload() {
